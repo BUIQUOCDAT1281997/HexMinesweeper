@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hex_Minesweeper</string>
+    <string name="start">START</string>
+    <string name="hex_minesweeper">Hex Minesweeper</string>
+    <string name="easy">Easy</string>
+    <string name="normal">Normal</string>
+    <string name="difficult">Difficult</string>
+    <string name="custom">Custom</string>
+    <string name="level">Muc choi</string>
+    <string name="diem_cao_nhat">Diem cao nhat</string>
+    <string name="huong_dan">Huong dan</string>
+    <string name="go">GO</string>
+</resources>
